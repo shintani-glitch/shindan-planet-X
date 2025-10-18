@@ -1,0 +1,6 @@
+google-generativeai
+google-auth-httplib2
+google-auth-oauthlib
+gspread
+tweepy
+python-dotenv
